@@ -1,0 +1,11 @@
+# Ignore Eclipse-related files
+.project
+.classpath
+.settings/
+.metadata/
+.factorypath
+
+# Ignore build and IDE output directories
+target/
+bin/
+.vscode/
